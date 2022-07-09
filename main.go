@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/acud/binary-funk/cmd"
+import "github.com/acud/po-compare/cmd"
 
 func main() {
   cmd.Execute()
